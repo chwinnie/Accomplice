@@ -1,13 +1,12 @@
 rootProject.name = 'ParseAndroidUI'
 
 // Parse UI Login Library
-include ':ParseUI-Widget'
+include ':ParseUI-Widget', 'app'
 
 // Parse UI Widget Library
 include ':ParseUI-Login'
 
 // Sample Projects
-include ':ParseLoginSampleBasic'
 include ':ParseLoginSampleWithDispatchActivity'
 include ':ParseLoginSampleCodeCustomization'
 include ':ParseLoginSampleLayoutOverride'
