@@ -7,6 +7,3 @@ include ':ParseUI-Widget', 'app'
 include ':ParseUI-Login'
 
 // Sample Projects
-include ':ParseLoginSampleWithDispatchActivity'
-include ':ParseLoginSampleCodeCustomization'
-include ':ParseLoginSampleLayoutOverride'
